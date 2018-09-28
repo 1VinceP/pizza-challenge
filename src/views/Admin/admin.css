@@ -1,0 +1,54 @@
+.admin-main {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-body {
+    height: calc(100vh - 60px);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.admin-create {
+    height: 80%;
+    width: 80%;
+    background: var(--secondary);
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.admin-create h2 {
+    width: 100%;
+    font-size: 30px;
+    font-family: var(--head-font);
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.admin-inputs {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.admin-i-col {
+    height: 100%;
+    width: 45%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-i-col input {
+    margin-bottom: 12px;
+    width: 45%;
+}

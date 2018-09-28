@@ -1,0 +1,20 @@
+.menu-main {
+    height: 100%;
+    width: 400px;
+    background: var(--secondary);
+    padding-top: 100px;
+    border-right: 1px solid #000;
+}
+
+.menu-item {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: -1px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Source+Sans+Pro');
+
+:root {
+    --head-font: 'Raleway', sans-serif;
+    --body-font: 'Source Sans Pro', sans-serif;
+    --primary: #ee4402;
+    --secondary: #f6f296;
+}
+
+* {
+    font-family: var(--body-font);
+}

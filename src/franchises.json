@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Big Apple Pizza Stop",
+        "location": "New York",
+        "menu": [
+            {
+                "title": "Grandma's Garden",
+                "ingredients": [ "Mushrooms", "Bell peppers", "Spinach", "Artichoke Hearts", "Black Olives" ],
+                "image": "https://www.360bistrobar.com/wp-content/uploads/sites/16/2017/03/veggie-pizza.jpg"
+            },
+            {
+                "title": "The Carnivore",
+                "ingredients": [ "Pepperoni", "Sausage", "Ham" ],
+                "image": "https://pizzanova.com/wp-content/uploads/2016/06/PN_Classic_MeatSupreme_1920x1440.jpg"
+            },
+            {
+                "title": "Cheese Supreme",
+                "ingredients": [ "Extra Cheese" ],
+                "image": "https://www.vvsupremo.com/wp-content/uploads/2016/09/N-Cheese-Pizza-Day-900x570.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Gale Pizzaria",
+        "location": "Chicago",
+        "menu": [
+            {
+                "title": "Veggie Delight",
+                "ingredients": [ "Mushrooms", "Onions", "Banana Peppers" ],
+                "image": "https://www.360bistrobar.com/wp-content/uploads/sites/16/2017/03/veggie-pizza.jpg"
+            },
+            {
+                "title": "Protein Party",
+                "ingredients": [ "Extra Pepperoni", "Extra Sausage", "Extra Grilled Chicken" ],
+                "image": "https://pizzanova.com/wp-content/uploads/2016/06/PN_Classic_MeatSupreme_1920x1440.jpg"
+            },
+            {
+                "title": "Magnificent Cheese",
+                "ingredients": [ "Cheese" ],
+                "image": "https://www.vvsupremo.com/wp-content/uploads/2016/09/N-Cheese-Pizza-Day-900x570.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Golden Pizza Pies",
+        "location": "San Francisco",
+        "menu": [
+            {
+                "title": "Green Extravaganza",
+                "ingredients": [ "Mushrooms", "Jalapenos", "Spinach" ],
+                "image": "https://www.360bistrobar.com/wp-content/uploads/sites/16/2017/03/veggie-pizza.jpg"
+            },
+            {
+                "title": "Mega Meat",
+                "ingredients": [ "Pepperoni", "Grilled Chicken", "Ham" ],
+                "image": "https://pizzanova.com/wp-content/uploads/2016/06/PN_Classic_MeatSupreme_1920x1440.jpg"
+            },
+            {
+                "title": "Cheesy Wonder",
+                "ingredients": [ "Cheese" ],
+                "image": "https://www.vvsupremo.com/wp-content/uploads/2016/09/N-Cheese-Pizza-Day-900x570.jpg"
+            }
+        ]
+    }
+]
